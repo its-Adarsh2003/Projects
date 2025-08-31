@@ -17,8 +17,8 @@ This project demonstrates Modern Portfolio Theory in Python. Using historical st
 ![Closing Price](images/closing_price.png)
 
 ### Portfolio Weights Distribution
-![Portfolio Weights](images/Portfolioweight_distribution.png)
+![Portfolio Weights](images/Portfolio_weight_distribution.png)
 
 ### Distributed stocks
-![Return & Risk](images/Distributed_stocks.png)
+![Return & Risk](images/distributed_stocks.png)
  
