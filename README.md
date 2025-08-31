@@ -13,4 +13,12 @@ This project demonstrates Modern Portfolio Theory in Python. Using historical st
 - Identify the **optimal portfolio weights**
 - Visualize results with clear charts
   ## 📊 Example Outputs
-  
+ ## Closing Prices of Stocks
+![Closing Price](images/closing_price.png)
+
+### Portfolio Weights Distribution
+![Portfolio Weights](images/Portfolioweight_distribution.png)
+
+### Distributed stocks
+![Return & Risk](images/Distributed_stocks.png)
+ 
