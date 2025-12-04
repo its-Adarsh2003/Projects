@@ -1,4 +1,4 @@
-# Projects
+# Portfolio Optimization
 This project demonstrates Modern Portfolio Theory in Python. Using historical stock data, it calculates expected returns, volatility, and the covariance matrix of assets to construct the efficient frontier and find the optimal allocation of assets."
  ## 🔧 Tools & Libraries
 - Python 3.x
